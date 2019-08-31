@@ -4,4 +4,4 @@
 **Кафедра**: Программное обеспечение ЭВМ и информационные технологии (ИУ7) [iu7.bmstu.ru](http://iu7.bmstu.ru)  
 **Период**: 2012 сентябрь - 2017 июнь  
 
-[Подробнее...](posts/bmstu_baccalaureate/index.md)  
+[Подробнее...](posts/bmstu_baccalaureate/index)  

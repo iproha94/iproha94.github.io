@@ -3,4 +3,4 @@
 **Период**: 2017 июль - 2018 февраль  
 **Должность**: performance engineer  
 
-[Подробнее...](posts/tarantool_job/full.md)  
+[Подробнее...](posts/tarantool_job/index)  
