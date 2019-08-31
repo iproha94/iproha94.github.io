@@ -1,2 +1,17 @@
 theme: jekyll-theme-cayman
 title: Welcome to the iproha94 homepage!
+
+# Name of your site (displayed in the header)
+name: Petukhov Ilya
+
+# Short bio or description (displayed in the header)
+description: Developer from Moscow
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: iproha94@gmail.com
+  github: iproha94
+  linkedin: ilya-petukhov-62ba9314b
+  stackoverflow: users/9522835/ilya-petukhov
+  codeforces: pro100hackeR
