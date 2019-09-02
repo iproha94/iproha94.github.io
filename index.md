@@ -38,6 +38,3 @@
 
 ***
 
-{% include_relative posts/about_me_books/title.md %}
-
-***
