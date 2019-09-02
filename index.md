@@ -1,35 +1,45 @@
-{% include_relative posts/contacts_profiles/short.md %}
+{% include_relative posts/about_me_contacts_profiles/title.md %}
 
 ***
 
-{% include_relative posts/decast_job/short.md %}
+{% include_relative posts/job_decast/title.md %}
+
+[Подробнее...](posts/job_decast/index)  
 
 ***
 
-{% include_relative posts/tarantool_job/short.md %}
+{% include_relative posts/job_tarantool/title.md %}
+
+[Подробнее...](posts/job_tarantool/index)
 
 ***
 
-{% include_relative posts/bmstu_baccalaureate/short.md %}
+{% include_relative posts/education_baccalaureate/title.md %}
+
+[Подробнее...](posts/education_baccalaureate/index)  
 
 ***
 
-{% include_relative posts/techpark_course/short.md %}
+{% include_relative posts/course_techpark/title.md %}
+
+[Подробнее...](posts/course_techpark/index)  
 
 ***
 
-{% include_relative posts/netcracker_course/short.md %}
+{% include_relative posts/course_netcracker/title.md %}
 
 ***
 
-{% include_relative posts/courses/short.md %}
+{% include_relative posts/course_others/title.md %}
 
 ***
 
-{% include_relative posts/mysql_indexes/short.md %}
+{% include_relative posts/publication_mysql_indexes/title.md %}
+
+[Подробнее...](https://elibrary.ru/item.asp?id=28968652)  
 
 ***
 
-{% include_relative posts/books/short.md %}
+{% include_relative posts/about_me_books/title.md %}
 
 ***

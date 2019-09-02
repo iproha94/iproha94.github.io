@@ -1,4 +1,4 @@
-# Software Development от NetCracker
+# Курсы: Software Development от NetCracker
 
 **Программа**: `Software Development` [http://msk.edu-netcracker.com/#portfolio](http://msk.edu-netcracker.com/#portfolio)  
 **Домашние задания**: [github.com/iproha94/netcracker-learning](https://github.com/iproha94/netcracker-learning)  
