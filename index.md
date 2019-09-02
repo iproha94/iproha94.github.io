@@ -33,8 +33,3 @@
 ***
 
 {% include_relative posts/publication_mysql_indexes/title.md %}
-
-[Подробнее...](https://elibrary.ru/item.asp?id=28968652)  
-
-***
-

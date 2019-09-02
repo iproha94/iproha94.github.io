@@ -4,16 +4,14 @@
 
 **Период**: осень 2017  
 **Стек**: `javascript`, `react.js`, ...  
-
-[Подробнее...](https://github.com/iproha94/mailru-intensive-reactjs)  
+**Код**: [на github](https://github.com/iproha94/mailru-intensive-reactjs)  
 
 
 ## Интенсивный курс "Системное программирование в Linux" от Mail.ru Group
 
 **Период**: осень 2017  
 **Стек**: `c`, `linux`, ...  
-
-[Подробнее...](https://github.com/iproha94/mailru-intensive-sysprog)  
+**Код**: [на github](https://github.com/iproha94/mailru-intensive-sysprog)  
 
 
 ## Software Development от NetCracker
