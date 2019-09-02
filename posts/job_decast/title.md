@@ -8,5 +8,5 @@
 * субд и брокеры сообщений: `postgres`, `redis`, `rabbit-mq`, 
 * протоколы: `rest`, `api`, `http`, `mqtt`, `soap`, `lorawan`, 
 * devops: `nginx`, `docker`, `gitlab-ci`, `Gitlab Flow`, 
-* документация апи: `swagger`, `openapi`, `dredd`, `blueprint`, 
+* документация: `swagger`, `openapi`, `dredd`, `blueprint`, `draw.io`,
 * прочее: `loraserver`, `git`,

@@ -4,3 +4,4 @@
 **Кафедра**: Программное обеспечение ЭВМ и информационные технологии (ИУ7) [iu7.bmstu.ru](http://iu7.bmstu.ru)  
 **Период**: 2012 сентябрь - 2017 июнь  
 **Средний балл:** 4.8 (красный диплом)
+**Диплом:** [index.pdf](https://github.com/iproha94/mysql-indexes/blob/master/order/index.pdf)

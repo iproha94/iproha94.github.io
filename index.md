@@ -1,4 +1,6 @@
-{% include_relative posts/about_me_contacts_profiles/title.md %}
+{% include_relative posts/about_me/title.md %}
+
+[Подробнее...](posts/about_me/index)  
 
 ***
 
@@ -20,13 +22,9 @@
 
 ***
 
-{% include_relative posts/course_techpark/title.md %}
+{% include_relative posts/education_techpark/title.md %}
 
-[Подробнее...](posts/course_techpark/index)  
-
-***
-
-{% include_relative posts/course_netcracker/title.md %}
+[Подробнее...](posts/education_techpark/index)  
 
 ***
 
